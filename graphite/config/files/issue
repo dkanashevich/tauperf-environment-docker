@@ -1,0 +1,5 @@
+User / password: root / vagrant
+User / password: vagrant / vagrant
+
+Ports: Graphite: 8082, statsd: 8125 UDP
+
